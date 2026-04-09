@@ -48,7 +48,7 @@ Provides sample datasets for testing the system.
 
 ### 📈 EEG Visualization Dashboard
 Interactive visualization of EEG signals and statistics.
-![Visualization](outputs/visualization.png)
+![Visualization](Outputs/visualization.png)
 
 ---
 
