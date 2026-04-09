@@ -1,5 +1,5 @@
 # Advanced_EEG_Epilepsy
-=======
+---
 # 🧠 EEG Epilepsy Detection System  
 ### Hybrid Quantum-Classical AI for Pediatric Seizure Recognition  
 
