@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Advanced-_EEG_Epilepsy
 =======
 # 🧠 EEG Epilepsy Detection System  
@@ -12,6 +11,47 @@ A research-driven project for detecting epileptic seizures in pediatric EEG sign
 This system combines **Convolutional Neural Networks (CNN)** with **Quantum Support Vector Machines (QSVM)** to achieve superior accuracy in seizure detection.  
 
 ---
+
+---
+
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+The landing page showcasing the system overview and navigation.
+![Home](outputs/home.png)
+
+---
+
+### 🤖 Advanced AI Technology
+Highlights hybrid quantum-classical ML features and capabilities.
+![Features](outputs/features.png)
+
+---
+
+### ⚙️ How It Works
+Step-by-step pipeline of EEG processing and prediction.
+![Process](outputs/process.png)
+
+---
+
+### 📤 Upload EEG Data
+User interface for uploading EEG CSV files.
+![Upload](outputs/upload.png)
+
+---
+
+### 📊 Sample Dataset Section
+Provides sample datasets for testing the system.
+![Sample](outputs/sample.png)
+
+---
+
+### 📈 EEG Visualization Dashboard
+Interactive visualization of EEG signals and statistics.
+![Visualization](outputs/visualization.png)
+
+---
+
 
 ## 🌟 Key Features
 - 🔬 **Hybrid Quantum-Classical ML**: CNN feature extraction + Quantum SVM classification  
@@ -193,5 +233,3 @@ Werkzeug==2.3.7
 - Found array with 0 samples → Ensure CSV has valid EEG rows
 - No filter named 'tojsonhtml' → Use {{ results | tojson }} in template
 - Model loading errors → Delete models/ and retrain
-
->>>>>>> 61b3da1 (Initial commit)
